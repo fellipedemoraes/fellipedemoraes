@@ -24,6 +24,8 @@ Here are some ideas to get you started:
 💬 Ask me about everything <br>
 📫 How to reach me: social medias linkedin or instagram <br>
 
+<--
 <div align="center" style="display: inline-block; margin-right: 3px">
     <br>
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=powerbi&logoColor=white) ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JAVASCRIPT](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) ![BOOTSTRAP](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+-->
