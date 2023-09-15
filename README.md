@@ -24,6 +24,11 @@ Here are some ideas to get you started:
 💬 Ask me about everything <br>
 📫 How to reach me: social medias linkedin or instagram <br>
 
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/fellipedemoraes/count.svg" />
+</p>
+
 <!--
 <div align="center" style="display: inline-block; margin-right: 3px">
     <br>
