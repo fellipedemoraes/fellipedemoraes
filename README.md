@@ -4,12 +4,12 @@
 Here are some ideas to get you started:
 -->
 
-🔭 I’m currently working on inventCloud and Kalendae 
-🌱 I’m currently learning data science and people management at USP
-👯 I’m looking to collaborate on PBI, Metabase, Data Models and more
-🤔 I’m looking for help with learning
-💬 Ask me about everything
-📫 How to reach me: social medias linkedin or instagram
+🔭 I’m currently working on inventCloud and Kalendae <br>
+🌱 I’m currently learning data science and people management at USP <br>
+👯 I’m looking to collaborate on PBI, Metabase, Data Models and more <br>
+🤔 I’m looking for help with learning <br>
+💬 Ask me about everything <br>
+📫 How to reach me: social medias linkedin or instagram <br>
 
 <div align="center">
 <div align="center">  
