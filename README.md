@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 👯 I’m looking to collaborate on PBI, Metabase, Data Models and more <br>
 🤔 I’m looking for help with learning <br>
 💬 Ask me about everything <br>
-📫 How to reach me: social medias linkedin or instagram <br>
+📫 How to reach me: social medias linkedin oor here <br>
 
 <p align="center"> 
   Visitor count<br>
