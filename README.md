@@ -14,9 +14,6 @@ Here are some ideas to get you started:
 
 <div align="left" style="display: inline-block; margin-right: 3px">
     
-🌱 I’m currently learning data science and people management at USP <br>
-👯 I’m looking to collaborate on PBI, Metabase, Data Models and more <br>
-🤔 I’m looking for help with learning <br>
 💬 Ask me about everything <br>
 📫 How to reach me: social medias linkedin oor here <br>
 
